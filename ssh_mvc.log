@@ -128,3 +128,15 @@ java.lang.InterruptedException: null
 2017-09-04 15:32:47.120 5992 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
 2017-09-04 15:37:25.627 7005 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
 2017-09-11 17:36:06.665 7841 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 17:52:18.620 7599 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 17:53:40.745 7237 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 17:57:20.266 9850 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:02:25.983 7669 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:19:46.330 7516 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:19:48.980 10166 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:21:41.270 7994 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:21:43.698 10422 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:23:58.350 7810 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:26:27.629 8356 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:30:18.388 9706 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 18:34:26.778 6672 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
