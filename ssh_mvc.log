@@ -127,3 +127,4 @@ java.lang.InterruptedException: null
 2017-09-04 15:31:27.554 4716 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
 2017-09-04 15:32:47.120 5992 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
 2017-09-04 15:37:25.627 7005 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
+2017-09-11 17:36:06.665 7841 [main] WARN  org.hibernate.cfg.SettingsFactory - Unrecognized value for "hibernate.hbm2ddl.auto": false
